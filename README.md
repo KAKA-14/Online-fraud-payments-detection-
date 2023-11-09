@@ -16,3 +16,5 @@ Google colab link -  https://colab.research.google.com/drive/1exzxsGaXeiniCsu_rd
 Final project document - https://drive.google.com/file/d/1mVMeb_KAwn4DD8X6G8H3bPjeTsbD4QNO/view?usp=sharing
 
 Youtube link of project demo - https://www.youtube.com/watch?v=7u6TxvONj_c
+
+Kaggle Dataset Link - https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset
